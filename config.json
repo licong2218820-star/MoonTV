@@ -84,6 +84,14 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    "xingba": {
+      "api": "https://sex8zy8.com/api.php/provide/vod",
+      "name": "杏吧资源"
+    },
+    "yutu": {
+      "api": "https://yutuzy.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    },
     }
   }
 }
